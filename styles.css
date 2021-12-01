@@ -1,0 +1,68 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+  .alertVacio {
+      color: darkgray;
+      text-align: center;
+      font-size: x-large;
+  }
+
+
+  hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+
+
+.oculto {
+  opacity: 0;
+  visibility: hidden;
+  display: none;
+}
+
+
+.textoRojo {
+  color: red;
+}
+
+.recuadro-activo {
+  border: 3px solid rgb(39, 203, 238);
+}
+
+.circulo {
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.circulo-rojo {
+  background-color: red;
+}
+
+.circulo-verde {
+  background-color: green;
+}
+
+  
+
+  .carousel-caption {
+    position: absolute;
+    left: auto;
+    width: 60%;
+    height: 70%;
+    opacity: 0.8;
+    bottom:0;
+    right:0;
+    text-shadow: 2px 2px 15px #000000;
+}
+
+
+.vl {
+  border-left: 2px solid lightgrey;
+  height: 200px;
+}
+
