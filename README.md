@@ -7,18 +7,18 @@ Proyecto desarrollado por Fernando Miranda
 
 ### `Javascript, HTML, CSS`
 
-## `JQuery`
+### `JQuery`
 Version 3.6.0
 Instalacion: https://code.jquery.com/jquery-3.6.0.min.js
 
-## `Bootstrap`
+### `Bootstrap`
 Version 5.1.1
 Instalacion: https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css
 
-## `SweetAlert`
+### `SweetAlert`
 Version 2.11
 Instalacion: <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
-## `Animate.CSS`
+### `Animate.CSS`
 Version 4.1.1
 Instalacion:  https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
